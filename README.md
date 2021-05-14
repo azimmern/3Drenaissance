@@ -3,17 +3,38 @@ layout: default
 permalink: /
 ---
 
-# Shakespeare: An Introduction through Comedy
-This is the course resource site for ENGL20215, a course taught through the Notre Dame Office of Digital Learning.
+# 3D RENAISSANCE: Making Science in the Early Modern World
 
-**Instructor**
+**Instructors**
 
-Dr. Arnaud Zimmern<br>
-**Location**: Online<br>
-**E-mail**: azimmern@nd.edu<br>
-**Office hours**: Please email me if you would like to meet either face-to-face or online!
+Dr. Robert Goulding<br>
+**E-mail**: rgoulding@nd.edu<br>
+**Office hours**: TBA
 <!-- I'll change this to feature a Google Calendar with set times to meet -->
 
+Dr. Evan Ragland<br>
+**E-mail**: eragland@nd.edu<br>
+**Office hours**: TBA
+<!-- I'll change this to feature a Google Calendar with set times to meet -->
+
+Dr. Arnaud Zimmern<br>
+**E-mail**: azimmern@nd.edu<br>
+**Office hours**: TBA
+<!-- I'll change this to feature a Google Calendar with set times to meet -->
+
+**Experts and Consultants**
+
+Kiva Ford<br>
+**E-mail**: eragland@nd.edu<br>
+
+Adam Heet<br>
+**E-mail**: aheet@nd.edu<br>
+
+**Teaching Assistants**
+
+TBD
+
+**Location**:
 
 ## Course Description
 
