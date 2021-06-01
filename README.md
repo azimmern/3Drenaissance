@@ -48,13 +48,13 @@ This course examines the making of scientific glass instruments such as optical 
 
 ### Course Organization
 
-Our class meetings will begin as a mixture of lecture and seminar-style discussion in the Rare Books and Special Collections of the Hesburgh Library, with a focus on. In workshops, students will begin with tutorials on TinkerCAD and slicing software (Cura) and begin small jobs for 3D printers, growing their familiarity with their own tools and technologies as they learn about the circumstances and techniques of artisans and craftsmen of the early modern period. 
+Our class meetings begin as a mixture of lecture and seminar-style discussion in the Rare Books and Special Collections of the Hesburgh Library. In lab-style workshops, students then complete tutorials on CAD and slicing software (TinkerCAD and Cura) to begin small jobs for 3D printers. As they grow in familiarity with  cutting-edge tools and digital technologies of their own time, they learn about and inquire into the techniques of artisans and craftsmen of the early modern period. 
 
 ### Note on Technology
 For a lecture-style class like ours, compelling research suggests that taking notes on laptops inhibits your learning by encouraging you to transcribe what you hear verbatim rather than listen, digest, engage, and participate actively. I recommend [this article on laptops in lecture classes](https://www.brookings.edu/research/for-better-learning-in-college-lectures-lay-down-the-laptop-and-pick-up-a-pen/?utm_medium=social&utm_source=twitter&utm_campaign=es) and encourage you to reflect on its findings as you decide how and what kinds of notes you wish to take.<br>
 
 ### Accommodations
-Any student with University-approved accommodations should speak with me within the first ten days of class to discuss their individual situation. <br>
+Any student with University-approved accommodations should speak with the faculty within the first ten days of class to discuss their individual situation. <br>
 
 ## Texts:
 
@@ -95,14 +95,10 @@ This course has a mix of Design projects assignments and writing assignments.
 
 ### Navari Family Center for Digital Scholarship
 
-This course focuses heavily on some paid tools that exist in Adobe Creative Suite. If you are located in Norman, you can access all of these programs for free in the Gaylord Computer labs. Your initial login uses your OU NetID (4x4) as your user name, and “changeme” as your password.  You will be prompted to change your password on your first logon Their Gaylord College network login is distinct from your OU Ozone/email login and only applies to the Gaylord College network. You may not share their login information with anyone.  Doing so may result in their losing access to the network. Please log off when finished using a workstation, but never shut down the computers. Please be courteous of the other students who use these spaces by keeping lids on drinks and by being careful with food. Trash and recycling bins are available in all labs and throughout the College.
+Lab Workshops will be held in the NFCDS Classroom This course focuses heavily on some open-access tools available for free to download. But we will also use more refined softwares accessible for free on the Hesburgh Library desktops.
 
 #### Lab Hours
 
-
-### Special Needs
-
-Students who need special accommodations or have special needs are invited to share these concerns or requests as soon as possible.  Requests for reasonable accommodation should be addressed to the Sarah Bea Accessibility Resources
 
 ## Course Blog
 
